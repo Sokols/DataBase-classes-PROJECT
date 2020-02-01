@@ -1,0 +1,1 @@
+CREATE DATABASE 'C:\Users\asus1\OneDrive\Pulpit\Studia\SEM3\BD\_Labki — kopia\liga.db' LOG ON 'liga.log' COLLATION '1250LATIN2' NCHAR COLLATION 'UCA';
